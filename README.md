@@ -1,4 +1,4 @@
-# weather-app
+# 🌦 Weather App
 ## This is a simple weather web app which gives you the live weather of any city in the world using API from Open Weather Map website.
 ### How to use it?
 
