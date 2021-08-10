@@ -10,8 +10,8 @@ To check out live demo, [click here](https://weather-app-arpit.herokuapp.com/)
 
 **Screenshots:**
 
-*Landing Page:*<br>
+*Landing Page:*<br><br>
 ![Landing_Page](https://1.bp.blogspot.com/-Vfgos1C36uM/YRFaJmmJsFI/AAAAAAAAAIM/jcFrdoR4350h8pf7jw8LebDg5Gd41aj-gCLcBGAsYHQ/s16000/1.PNG)
 
-*Result Page:*<br>
+*Result Page:*<br><br>
 ![Result_Page](https://1.bp.blogspot.com/-DyAZSnItIYI/YRFaJ0g41hI/AAAAAAAAAIQ/0jVQSXO2tl8MW4PftR4EDUGpGPegf0rWwCLcBGAsYHQ/s16000/2.PNG)
